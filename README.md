@@ -53,8 +53,11 @@ eyeofai models --billing-mode all # everything including paid
 
 **Find coordinates:**
 ```bash
-# Basic search
+# Basic search (uses free models by default)
 eyeofai find --input image.png --query "find the red button"
+
+# Use only free models explicitly
+eyeofai find --input image.png --query "find the red button" --billing-mode free
 
 # Use your screen
 eyeofai find --capture screen --query "find the chat icon"
