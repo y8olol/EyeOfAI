@@ -10,6 +10,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
+<p align="center">
+  <img src="EyeOfAI.png" alt="EyeOfAI Demo" width="600"/>
+</p>
+
 **EyeOfAI** — A Python CLI that localizes targets in images and documents by asking OpenRouter vision models (free, paid, or both) for coordinates, then selecting a consensus bounding box.
 
 ## What It Supports
