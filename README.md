@@ -10,10 +10,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<p align="center">
-  <img src="EyeOfAI.png" alt="EyeOfAI Demo" width="600"/>
-</p>
-
 **EyeOfAI** — Ask multiple vision models where stuff is, get coordinates back. Works with free and paid models from OpenRouter.
 
 ## What's this?
